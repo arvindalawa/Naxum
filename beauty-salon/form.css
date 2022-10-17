@@ -1,0 +1,29 @@
+        
+.container{
+    display: flex;
+    flex-direction:row;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.hero{
+    width: 25vw;
+    height: 60vh;
+}
+.hero img{
+    width: 25vw;
+    height: 60vh;
+}
+.form{
+    background-color: blueviolet;
+    width: 25vw;
+    height: 60vh;
+
+}
+.fb9 {
+    border: 1px solid #3366FF;
+    background-color: #B3C6FF;
+    width:150px;
+    height:30px;
+  }
